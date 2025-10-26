@@ -1,0 +1,45 @@
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 7786456680,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "Shaxriyor",
+    "last_name": "Dadayev",
+    "status": "UserStatus.RECENTLY",
+    "username": "sh_dadayev",
+    "language_code": "uz",
+    "dc_id": 2,
+    "photo": {
+        "_": "ChatPhoto",
+        "small_file_id": "AQADAgADfP8xG2RXMEsAEAIAA2jmG9ABAAMDiF9a1YmPYAAEHgQ",
+        "small_photo_unique_id": "AgADfP8xG2RXMEs",
+        "big_file_id": "AQADAgADfP8xG2RXMEsAEAMAA2jmG9ABAAMDiF9a1YmPYAAEHgQ",
+        "big_photo_unique_id": "AgADfP8xG2RXMEs"
+    }
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://deb.parrot.sh/parrot/iso/6.4/Parrot-security-6.4_amd64.vmdk']
+plugins.echo - INFO - 
+plugins.dl_button - INFO - https://deb.parrot.sh/parrot/iso/6.4/Parrot-security-6.4_amd64.vmdk
+plugins.dl_button - INFO - Parrot-security-6.4_amd64.vmdk.unknown_video
+root - INFO - Stop signal received (SIGINT). Exiting...
+root - INFO - Stop signal received (SIGINT). Exiting...
+root - INFO - Stop signal received (SIGINT). Exiting...
+root - INFO - Stop signal received (SIGINT). Exiting...
+root - INFO - Stop signal received (SIGINT). Exiting...
+root - INFO - Stop signal received (SIGINT). Exiting...
